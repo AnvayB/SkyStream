@@ -40,7 +40,13 @@ cd skystream
 
 2. Open the project with Google Colab or Jupyter Notebook.
 
-3. Run the application.
+3. Download these datasets or add them to Google Drive:
+- [Combined_Flights_2021](https://drive.google.com/file/d/1vtS1sV1aojTbge0kvf8mtKbebSYAMHjB/view?usp=sharing)
+- [Combined_Flights_2022](https://drive.google.com/file/d/1Q96MUzaDm-Td1wqNcptKcLXNZkOk-xbw/view?usp=sharing)
+
+4. Replace the filepaths with your filepaths
+
+5. Run the application.
 
 
 ## Usage
