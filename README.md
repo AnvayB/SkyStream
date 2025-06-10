@@ -62,8 +62,8 @@ cd skystream
     - https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022/data?select=Combined_Flights_2021.csv (2.21GB)
     - https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022/data?select=Combined_Flights_2022.csv (1.42GB)
 
-- Contributors
-    - [Laxmi Thrishitha Kalvakota](https://www.linkedin.com/in/thrishitha-kalvakota/)
-    - [Padmanabh Rati](https://www.linkedin.com/in/padmanabh-rathi-8b5083189/)
-    - [Preethi Sighavi](https://www.linkedin.com/in/preethisighavi/)
+## Collaborators
+- [Laxmi Thrishitha Kalvakota](https://www.linkedin.com/in/thrishitha-kalvakota/)
+- [Padmanabh Rati](https://www.linkedin.com/in/padmanabh-rathi-8b5083189/)
+- [Preethi Sighavi](https://www.linkedin.com/in/preethisighavi/)
 
